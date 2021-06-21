@@ -1,0 +1,22 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+ignore$
+\.avi$
+\.dat$
+\.ico$
+\.jpe?g$
+\.lock$
+\.map$
+\.min\.
+\.mod$
+\.mp[34]$
+\.pdf$
+\.png$
+\.svg$
+\.wav$
+^modules/javamail/src/test/resources/mails/.*\.eml$
+^project/plugins\.sbt$
+^\.github/
